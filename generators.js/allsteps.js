@@ -64,12 +64,13 @@ var done_youtube = subscribed ? '✅' : '❌';
   var bind_wallet = bind_walllet ? '✅' : '❌';
 
   var text =
-    `📚 <i>An idea is born that will Revolutionize the Crypto Market in times to come. We are CoinFace, We are a team practising Islam and have brought this project in a halal manner and our token is built on Binance Smart Chain and yes, it's a secure and Transparent token with Anti Crime Financial Standards. Just Hold n Earn massive rewards like BNB, Dividends, Giveaways, Shilling Rewards etc.</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n\n<b>❇️WE are glad that you joined our airdrop</b>\n🔘Total Reward : 1cr CFT + 250 BNB\n🔘Winners : CoinFace Token To 3000 Winners\n🔘Refer : Top 50 Referrals Will Receive A Share Of 1 BNB\n
+    `📚 <i><b>❇️WE are glad that you joined our airdrop</b>\n\n🔘<b>Total Reward </b>: 3500000 CFT And 1 BNB\n<b>🔘Winners</b>: CoinFace Token To 3000 Winners\n<b>🔘Refer</b> : Top 50 Referrals Will Receive A Share Of 1 BNB\n</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n\n<b>1 Point Value 400 CTF</b>\n\n
  ` +
     `🌐 <b>Website:</b> https://CoinFace.info\n\n` +
     `<b>🌧 Our Airdrop Tasks , You Must Complete</b>\n` +
     `1. <i><b>🔘 Bind Twitter Account</b></i> ${done_bind}\n` +
     `2. <i><b>🔘 Join our </b></i> <a href = "https://t.me/CoinFaceann">Telegram Channel</a> ${done_telegram}\n` +
+    `3. <i><b>🔘 Join our </b></i> <a href = "https://t.me/CoinFaceOfficialChat">Group Chat</a> ${done_group}\n` +
     `3. <i><b>🔘 Join our </b></i> <a href = "https://twitter.com/coinfaceoffici1">Twitter</a> ${done_twitter}\n` +
     `5. <i><b>🔘Retweet And Like This</b> </i> <a href = "https://twitter.com/CoinFaceOffici1/status/1617442360136454144?s=20&t=uOopQEJlLNIOjMf2fLE_EA">tweet</a> ${done_twitter}\n` +
     `6. <i><b>🔘Subscribe Our</b></i> <a href = "https://www.youtube.com/@CoinFace2023">YouTube</a> <i>Channel</i> ${done_youtube}\n` +
@@ -95,12 +96,13 @@ var done_youtube = subscribed ? '✅' : '❌';
   var bind_wallet = bind_walllet ? '✅' : '❌';
 
   var text =
-    `📚 <i>An idea is born that will Revolutionize the Crypto Market in times to come. We are CoinFace, We are a team practising Islam and have brought this project in a halal manner and our token is built on Binance Smart Chain and yes, it's a secure and Transparent token with Anti Crime Financial Standards. Just Hold n Earn massive rewards like BNB, Dividends, Giveaways, Shilling Rewards etc.</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n\n<b>❇️WE are glad that you joined our airdrop</b>\n🔘Total Reward : 1cr CFT + 250 BNB\n🔘Winners : CoinFace Token To 3000 Winners\n🔘Refer : Top 50 Referrals Will Receive A Share Of 1 BNB\n
+    `📚 <i><b>❇️WE are glad that you joined our airdrop</b>\n\n🔘<b>Total Reward </b>: 3500000 CFT And 1 BNB\n<b>🔘Winners</b>: CoinFace Token To 3000 Winners\n<b>🔘Refer</b> : Top 50 Referrals Will Receive A Share Of 1 BNB\n</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n\n<b>1 Point Value 400 CTF</b>\n\n
  ` +
     `🌐 <b>Website:</b> https://CoinFace.info\n\n` +
     `<b>🌧 Our Airdrop Tasks , You Must Complete</b>\n` +
     `1. <i><b>🔘 Bind Twitter Account</b></i> ${done_bind}\n` +
     `2. <i><b>🔘 Join our </b></i> <a href = "https://t.me/CoinFaceann">Telegram Channel</a> ${done_telegram}\n` +
+    `3. <i><b>🔘 Join our </b></i> <a href = "https://t.me/CoinFaceOfficialChat">Group Chat</a> ${done_group}\n` +
     `3. <i><b>🔘 Join our </b></i> <a href = "https://twitter.com/coinfaceoffici1">Twitter</a> ${done_twitter}\n` +
     `5. <i><b>🔘Retweet And Like This</b> </i> <a href = "https://twitter.com/CoinFaceOffici1/status/1617442360136454144?s=20&t=uOopQEJlLNIOjMf2fLE_EA">tweet</a> ${done_twitter}\n` +
     `6. <i><b>🔘Subscribe Our</b></i> <a href = "https://www.youtube.com/@CoinFace2023">YouTube</a> <i>Channel</i> ${done_youtube}\n` +
@@ -132,12 +134,13 @@ var done_youtube = subscribed ? '✅' : '❌';
   var bind_wallet = bind_walllet ? '✅' : '❌';
 
   var text =
-    `📚 <i>An idea is born that will Revolutionize the Crypto Market in times to come. We are CoinFace, We are a team practising Islam and have brought this project in a halal manner and our token is built on Binance Smart Chain and yes, it's a secure and Transparent token with Anti Crime Financial Standards. Just Hold n Earn massive rewards like BNB, Dividends, Giveaways, Shilling Rewards etc.</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n\n<b>❇️WE are glad that you joined our airdrop</b>\n🔘Total Reward : 1cr CFT + 250 BNB\n🔘Winners : CoinFace Token To 3000 Winners\n🔘Refer : Top 50 Referrals Will Receive A Share Of 1 BNB\n
+    `📚 <i><b>❇️WE are glad that you joined our airdrop</b>\n\n🔘<b>Total Reward </b>: 3500000 CFT And 1 BNB\n<b>🔘Winners</b>: CoinFace Token To 3000 Winners\n<b>🔘Refer</b> : Top 50 Referrals Will Receive A Share Of 1 BNB\n</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n\n<b>1 Point Value 400 CTF</b>\n\n
  ` +
     `🌐 <b>Website:</b> https://CoinFace.info\n\n` +
     `<b>🌧 Our Airdrop Tasks , You Must Complete</b>\n` +
     `1. <i><b>🔘 Bind Twitter Account</b></i> ${done_bind}\n` +
     `2. <i><b>🔘 Join our </b></i> <a href = "https://t.me/CoinFaceann">Telegram Channel</a> ${done_telegram}\n` +
+    `3. <i><b>🔘 Join our </b></i> <a href = "https://t.me/CoinFaceOfficialChat">Group Chat</a> ${done_group}\n` +
     `3. <i><b>🔘 Join our </b></i> <a href = "https://twitter.com/coinfaceoffici1">Twitter</a> ${done_twitter}\n` +
     `5. <i><b>🔘Retweet And Like This</b> </i> <a href = "https://twitter.com/CoinFaceOffici1/status/1617442360136454144?s=20&t=uOopQEJlLNIOjMf2fLE_EA">tweet</a> ${done_twitter}\n` +
     `6. <i><b>🔘Subscribe Our</b></i> <a href = "https://www.youtube.com/@CoinFace2023">YouTube</a> <i>Channel</i> ${done_youtube}\n` +
@@ -169,12 +172,13 @@ var done_youtube = subscribed ? '✅' : '❌';
   var bind_wallet = bind_walllet ? '✅' : '❌';
 
   var text =
-    `📚 <i>An idea is born that will Revolutionize the Crypto Market in times to come. We are CoinFace, We are a team practising Islam and have brought this project in a halal manner and our token is built on Binance Smart Chain and yes, it's a secure and Transparent token with Anti Crime Financial Standards. Just Hold n Earn massive rewards like BNB, Dividends, Giveaways, Shilling Rewards etc.</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n\n<b>❇️WE are glad that you joined our airdrop</b>\n🔘Total Reward : 1cr CFT + 250 BNB\n🔘Winners : CoinFace Token To 3000 Winners\n🔘Refer : Top 50 Referrals Will Receive A Share Of 1 BNB\n
+    `📚 <i><b>❇️WE are glad that you joined our airdrop</b>\n\n🔘<b>Total Reward </b>: 3500000 CFT And 1 BNB\n<b>🔘Winners</b>: CoinFace Token To 3000 Winners\n<b>🔘Refer</b> : Top 50 Referrals Will Receive A Share Of 1 BNB\n</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n\n<b>1 Point Value 400 CTF</b>\n\n
  ` +
     `🌐 <b>Website:</b> https://CoinFace.info\n\n` +
     `<b>🌧 Our Airdrop Tasks , You Must Complete</b>\n` +
     `1. <i><b>🔘 Bind Twitter Account</b></i> ${done_bind}\n` +
     `2. <i><b>🔘 Join our </b></i> <a href = "https://t.me/CoinFaceann">Telegram Channel</a> ${done_telegram}\n` +
+    `3. <i><b>🔘 Join our </b></i> <a href = "https://t.me/CoinFaceOfficialChat">Group Chat</a> ${done_group}\n` +
     `3. <i><b>🔘 Join our </b></i> <a href = "https://twitter.com/coinfaceoffici1">Twitter</a> ${done_twitter}\n` +
     `5. <i><b>🔘Retweet And Like This</b> </i> <a href = "https://twitter.com/CoinFaceOffici1/status/1617442360136454144?s=20&t=uOopQEJlLNIOjMf2fLE_EA">tweet</a> ${done_twitter}\n` +
     `6. <i><b>🔘Subscribe Our</b></i> <a href = "https://www.youtube.com/@CoinFace2023">YouTube</a> <i>Channel</i> ${done_youtube}\n` +
@@ -200,12 +204,13 @@ var done_youtube = subscribed ? '✅' : '❌';
   var bind_wallet = bind_walllet ? '✅' : '❌';
 
   var text =
-    `📚 <i>An idea is born that will Revolutionize the Crypto Market in times to come. We are CoinFace, We are a team practising Islam and have brought this project in a halal manner and our token is built on Binance Smart Chain and yes, it's a secure and Transparent token with Anti Crime Financial Standards. Just Hold n Earn massive rewards like BNB, Dividends, Giveaways, Shilling Rewards etc.</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n\n<b>❇️WE are glad that you joined our airdrop</b>\n🔘Total Reward : 1cr CFT + 250 BNB\n🔘Winners : CoinFace Token To 3000 Winners\n🔘Refer : Top 50 Referrals Will Receive A Share Of 1 BNB\n
+     `📚 <i><b>❇️WE are glad that you joined our airdrop</b>\n\n🔘<b>Total Reward </b>: 3500000 CFT And 1 BNB\n<b>🔘Winners</b>: CoinFace Token To 3000 Winners\n<b>🔘Refer</b> : Top 50 Referrals Will Receive A Share Of 1 BNB\n</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n\n<b>1 Point Value 400 CTF</b>\n\n
  ` +
     `🌐 <b>Website:</b> https://CoinFace.info\n\n` +
     `<b>🌧 Our Airdrop Tasks , You Must Complete</b>\n` +
     `1. <i><b>🔘 Bind Twitter Account</b></i> ${done_bind}\n` +
     `2. <i><b>🔘 Join our </b></i> <a href = "https://t.me/CoinFaceann">Telegram Channel</a> ${done_telegram}\n` +
+    `3. <i><b>🔘 Join our </b></i> <a href = "https://t.me/CoinFaceOfficialChat">Group Chat</a> ${done_group}\n` +
     `3. <i><b>🔘 Join our </b></i> <a href = "https://twitter.com/coinfaceoffici1">Twitter</a> ${done_twitter}\n` +
     `5. <i><b>🔘Retweet And Like This</b> </i> <a href = "https://twitter.com/CoinFaceOffici1/status/1617442360136454144?s=20&t=uOopQEJlLNIOjMf2fLE_EA">tweet</a> ${done_twitter}\n` +
     `6. <i><b>🔘Subscribe Our</b></i> <a href = "https://www.youtube.com/@CoinFace2023">YouTube</a> <i>Channel</i> ${done_youtube}\n` +
