@@ -12,19 +12,19 @@ const composer = new Composer();
 const { steps } = require('../generators.js/index');
 const router = new Router((ctx) => ctx.session.step);
 let button = new InlineKeyboard()
-  .url('Join Our Channel', 'https://t.me/airdropfluent')
+  .url('Join Our Channel', 'https://t.me/coinfaceann')
   .row()
-  .url('Join Our Group', 'https://t.me/airdropfluentgroup')
+  .url('Join Our Group', 'https://t.me/coinfaceofficialchat')
   .row()
   .text('Continue', 'joined');
 
 let button2 = new InlineKeyboard()
-  .url('Join Our Channel', 'https://t.me/airdropfluent')
+  .url('Join Our Channel', 'https://t.me/coinfaceann')
   .row()
   .text('Continue', 'joined');
 
 let button3 = new InlineKeyboard()
-  .url('Join Our Group', 'https://t.me/airdropfluentgroup')
+  .url('Join Our Group', 'https://t.me/coinfaceofficialchat')
   .row()
   .text('Continue', 'joined');
 
