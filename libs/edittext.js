@@ -12,7 +12,7 @@ var done_youtube = subscribed ? '✅' : '✅';
   var bind_wallet = bind_walllet ? '✅' : '❌';
 
   var text =
-    `📚 <i>An idea is born that will Revolutionize the Crypto Market in times to come. We are CoinFace, We are a team practising Islam and have brought this project in a halal manner and our token is built on Binance Smart Chain and yes, it's a secure and Transparent token with Anti Crime Financial Standards. Just Hold n Earn massive rewards like BNB, Dividends, Giveaways, Shilling Rewards etc.</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n.\n
+    `📚 <i>🏦$MetaCateAI is a groundbreaking blockchain project that leverages the power of artificial intelligence to revolutionize the crypto industry. MetaCateAI offers users the ability to automate their trading strategies through the use of AI technology. This involves utilizing past financial data to enhance trading strategies, automating stop-loss orders, and implementing dollar-cost averaging during market downturns.</i>\n\n<b>🏦Holding $METACATEAI Turns You into a Financial Giant</b>\n.\n
  ` +
      `🌐 <b>Website:</b> https://metacateai.live/\n\n` +
     `<b>🌧 Our Airdrop Tasks , You Must Complete</b>\n` +
