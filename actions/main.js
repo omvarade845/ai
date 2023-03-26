@@ -106,20 +106,20 @@ composer.hears('🔎 Information', async (ctx, next) => {
   let { user_step } = await users.findOne({ id: ctx.from.id });
   if (user_step == 'Done') {
     ctx.reply(
-`<i>We Are <b>COINFACE,</b>
+`<i>We Are <b>METACAT-AI,</b>
 We Are A Team Practicing Islam And Have Brought This Project In A HALAL Manner And Our Token Is Built On Binance Smart Chain And Yes 
 It’s A Secure And Transparent Token With Anti Crime Financial Standards. Also Has Massive Level Of Features & Functions In Our Token With Type Level – 7</i> (<b>Smart Contract Address</b>).
 
 
-<b>✅ Token Address:</b> <code>CoinFace (CFT)</code>
+<b>✅ Token Address:</b> <code>0xC8B10FAa50eB8902ce55884b69e9Da9bB747114f</code>
 
-🔹<b>Decimals:</b> <code>3</code>
+🔹<b>Decimals:</b> <code>18</code>
 
-<b>💲 Symbol:</b> <code>CFT</code>
+<b>💲 Symbol:</b> <code>METACATEAI </code>
 
-<b>📊 Supply: </b> <code>150000000 </code>
+<b>📊 Supply: </b> <code>1,000,000,000</code>
 
-<b>🔸Explorer:</b> <a href ="https://bscscan.com/token/radimon">Binance Smart Chain</a>`,
+<b>🔸Explorer:</b> <a href ="https://bscscan.com/token/0xC8B10FAa50eB8902ce55884b69e9Da9bB747114f">Binance Smart Chain</a>`,
       { parse_mode: 'HTML', disable_web_page_preview: true },
     );
   } else {
