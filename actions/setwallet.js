@@ -106,7 +106,7 @@ router.route('set-wallet', async (ctx) => {
 
         await ctx.api.sendMessage(
           refferal_id,
-          '✅ <b>A user you invited completed registration and you earned 1 $LBT</b>',
+          '✅ <b>A user you invited completed registration and you earned 1 point</b>',
           { parse_mode: 'HTML' },
         );
       }
