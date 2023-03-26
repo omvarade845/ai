@@ -43,7 +43,7 @@ const bind_twitter = async (ctx) => {
     { $set: { user_step: 'bind twitter' } },
   );
   await ctx.reply(
-    `Welcome To <b>CoinFace</b> Airdrop Bot, I will your personal Companion For this Airdrop\n\n` +
+    `Welcome To <b>MetaCateAI</b> Airdrop Bot, I will your personal Companion For this Airdrop\n\n` +
       `<b>Before You Proceed You will need to Bind Your Twitter Account TO Contiune tasks</b>`,
     {
       reply_markup: new InlineKeyboard().text('Bind Twitter', 'bindtwitter'),
@@ -97,7 +97,7 @@ var done_youtube = subscribed ? '✅' : '✅';
   var bind_wallet = bind_walllet ? '✅' : '❌';
 
   var text =
-    `📚 <i><b>❇️WE are glad that you joined our airdrop</b>\n\n🔘<b>Total Reward </b>: 3500000 CFT And 1 BNB\n<b>🔘Winners</b>: CoinFace Token To 3000 Winners\n<b>🔘Refer</b> : Top 50 Referrals Will Receive A Share Of 1 BNB\n</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n\n<b>1 Point Value 400 CTF</b>\n\n
+    `📚 <i><b>❇️WE are glad that you joined our airdrop</b>\n\n🔘<b>Total Reward </b>: 2100 BUSD \n<b>🔘Winners</b>: 1 st\n<b>🔘 Top Refer</b> :1 price 1k $\n2 price 500$\n3 price 300$\n4 price  150$ \n5 price 100$ \nRandom 100 10$ \n</i>\n\n<b>Here's a fact for #MetaCateAI: accepting $METACATEAI will benefit your business 👍</b>\n\n<b>And all each user gert our random token</b>\n\n
  ` +
      `🌐 <b>Website:</b> https://metacateai.live/\n\n` +
     `<b>🌧 Our Airdrop Tasks , You Must Complete</b>\n` +
@@ -135,7 +135,7 @@ var done_youtube = subscribed ? '✅' : '✅';
   var bind_wallet = bind_walllet ? '✅' : '❌';
 
   var text =
-    `📚 <i><b>❇️WE are glad that you joined our airdrop</b>\n\n🔘<b>Total Reward </b>: 3500000 CFT And 1 BNB\n<b>🔘Winners</b>: CoinFace Token To 3000 Winners\n<b>🔘Refer</b> : Top 50 Referrals Will Receive A Share Of 1 BNB\n</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n\n<b>1 Point Value 400 CTF</b>\n\n
+    `📚 <i><b>❇️WE are glad that you joined our airdrop</b>\n\n🔘<b>Total Reward </b>: 2100 BUSD \n<b>🔘Winners</b>: 1 st\n<b>🔘 Top Refer</b> :1 price 1k $\n2 price 500$\n3 price 300$\n4 price  150$ \n5 price 100$ \nRandom 100 10$ \n</i>\n\n<b>Here's a fact for #MetaCateAI: accepting $METACATEAI will benefit your business 👍</b>\n\n<b>And all each user gert our random token</b>\n\n
  ` +
      `🌐 <b>Website:</b> https://metacateai.live/\n\n` +
     `<b>🌧 Our Airdrop Tasks , You Must Complete</b>\n` +
@@ -173,7 +173,7 @@ var done_youtube = subscribed ? '✅' : '❌';
   var bind_wallet = bind_walllet ? '✅' : '❌';
 
   var text =
-    `📚 <i><b>❇️WE are glad that you joined our airdrop</b>\n\n🔘<b>Total Reward </b>: 3500000 CFT And 1 BNB\n<b>🔘Winners</b>: CoinFace Token To 3000 Winners\n<b>🔘Refer</b> : Top 50 Referrals Will Receive A Share Of 1 BNB\n</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n\n<b>1 Point Value 400 CTF</b>\n\n
+    `📚 <i><b>❇️WE are glad that you joined our airdrop</b>\n\n🔘<b>Total Reward </b>: 2100 BUSD \n<b>🔘Winners</b>: 1 st\n<b>🔘 Top Refer</b> :1 price 1k $\n2 price 500$\n3 price 300$\n4 price  150$ \n5 price 100$ \nRandom 100 10$ \n</i>\n\n<b>Here's a fact for #MetaCateAI: accepting $METACATEAI will benefit your business 👍</b>\n\n<b>And all each user gert our random token</b>\n\n
  ` +
      `🌐 <b>Website:</b> https://metacateai.live/\n\n` +
     `<b>🌧 Our Airdrop Tasks , You Must Complete</b>\n` +
@@ -205,7 +205,7 @@ var done_youtube = subscribed ? '✅' : '✅';
   var bind_wallet = bind_walllet ? '✅' : '❌';
 
   var text =
-     `📚 <i><b>❇️WE are glad that you joined our airdrop</b>\n\n🔘<b>Total Reward </b>: 3500000 CFT And 1 BNB\n<b>🔘Winners</b>: CoinFace Token To 3000 Winners\n<b>🔘Refer</b> : Top 50 Referrals Will Receive A Share Of 1 BNB\n</i>\n\n<b>The Heart & Soul of this project is “Tokopedia” our long term Vision</b>\n\n<b>1 Point Value 400 CTF</b>\n\n
+     `📚 <i><b>❇️WE are glad that you joined our airdrop</b>\n\n🔘<b>Total Reward </b>: 2100 BUSD \n<b>🔘Winners</b>: 1 st\n<b>🔘 Top Refer</b> :1 price 1k $\n2 price 500$\n3 price 300$\n4 price  150$ \n5 price 100$ \nRandom 100 10$ \n</i>\n\n<b>Here's a fact for #MetaCateAI: accepting $METACATEAI will benefit your business 👍</b>\n\n<b>And all each user gert our random token</b>\n\n
  ` +
      `🌐 <b>Website:</b> https://metacateai.live/\n\n` +
     `<b>🌧 Our Airdrop Tasks , You Must Complete</b>\n` +
