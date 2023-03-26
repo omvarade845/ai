@@ -115,7 +115,7 @@ router.route('set-wallet', async (ctx) => {
       });
 
       await ctx.reply(
-        `<b>🎊 Congratulation 🎊</b>\n<i>You Completed all airdrop tasks and earn 10 $rdm, invite your friends and earn 1 $rdm for successfully invitation </i>`,
+        `<b>🎊 Congratulation 🎊</b>\n<i>You Completed all airdrop tasks and earn 10 $METACATEAI, invite your friends and earn 1 $METACATEAI for successfully invitation </i>`,
         { parse_mode: 'HTML' },
       );
 
