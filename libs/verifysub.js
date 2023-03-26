@@ -1,11 +1,11 @@
 const checkSub = async (ctx) => {
   try {
     const channel = await ctx.api.getChatMember(
-      '@airdropfluent',
+      '@metacateaichannel',
       ctx.from.id,
     );
     const group = await ctx.api.getChatMember(
-      '@airdropfluentgroup',
+      '@metacateaigroup',
       ctx.from.id,
     );
     const sub = ['creator', 'admininstrator', 'member'].includes(
